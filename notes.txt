@@ -1,0 +1,27 @@
+beer/ drink list/ wine list
+blog/ events :D
+about (catchy thing to say about the bar that makes it unique)
+contact us (hours, reservations, location, socials)
+
+socials = more important
+widget (twiter or something ) = prominent
+
+
+(header
+(heroimage/ about)
+(events/ socials/ what people are saying/)
+	- pull in widget for IG / twitter
+	- dear user use your resto's hashtag 
+(less important shit)
+(logistics (where, what, contact us))
+
+page 1
+home + about
+**nice to have
+
+page 2 
+Events
+
+page 3
+menu/drink list
+
